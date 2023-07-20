@@ -1,5 +1,5 @@
 # Irc
-My 42 project for IRC
+My 42 Irc project 
 
 
 This is my implementation of the 42school project ft_irc (fyi ft stands for "fortytwo") and it is an implementation of an IRC server
